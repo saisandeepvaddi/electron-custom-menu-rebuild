@@ -44,7 +44,7 @@ $ npm install && npm start
 
 ## Main process code
 
-NOTE: The code here is tested only on Windows. That is why I added extra check to work this only on Windows with the following line.
+**NOTE:** The code here is tested only on Windows. That is why I added extra check to work this only on Windows with the following line.
 
 `const isWindows = process.platform === "win32";`
 
